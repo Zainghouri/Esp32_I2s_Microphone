@@ -1,7 +1,6 @@
-#include <WiFi.h>
-#include <WiFiUdp.h>
 #include <driver/i2s.h>
 
+// Setup Pins for I2s INMP441 microphone
 #define I2S_SD 22
 #define I2S_WS 19
 #define I2S_SCK 21
